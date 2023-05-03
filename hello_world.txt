@@ -1,2 +1,3 @@
 Hi, Just testing my git repo. 
-Have Fun
+Have Fun.
+I love git
